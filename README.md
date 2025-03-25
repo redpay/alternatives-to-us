@@ -129,7 +129,6 @@ offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .ppt
 
 ## Web Browsers
 - **Vivaldi** 🇳🇴: Privacy-focused browser. [Website](https://vivaldi.com)
-- **Opera** 🇳🇴: Built-in VPN, additional features. [Website](https://opera.com)
 - **Mullvad Browser** 🇸🇪: Built with Tor developers, privacy-focused. [Website](https://mullvad.net/en/browser)
 
 ## Video Conferencing
