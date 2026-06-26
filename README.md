@@ -82,11 +82,13 @@ This list is a **community-driven effort** and we encourage:
 - **Tresorit** 🇨🇭: End-to-end encrypted. [Website](https://tresorit.com)
 - **Nextcloud** 🇩🇪: Self-hosted, private cloud solution. [Website](https://nextcloud.com)
 - **Sync.com** 🇨🇦: Privacy-focused. [Website](https://sync.com)
+- **Filen.io** 🇩🇪: Zero-knowledge, encrypted. [Website](https://filen.io/)
 
 ## Messaging Apps
 - **Threema** 🇨🇭: Secure and privacy-friendly. [Website](https://threema.ch)
 - **Element** 🇬🇧: Decentralised, built on the Matrix protocol. [Website](https://element.io)
 - **Wire** 🇨🇭🇩🇪: Enterprise-grade secure messaging. [Website](https://wire.com)
+- **SimpleX** 🇬🇧: No user ID, decentralised. [Website](https://simplex.chat/)
 
 ## Social Media
 - **Mastodon** 🌐: global & decentralised social network alternative to Twitter. No US control, no ads, and no central authority. Originally created by a German 🇩🇪 [Website](https://joinmastodon.org)  
@@ -129,7 +131,6 @@ offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .ppt
 
 ## Web Browsers
 - **Vivaldi** 🇳🇴: Privacy-focused browser. [Website](https://vivaldi.com)
-- **Opera** 🇳🇴: Built-in VPN, additional features. [Website](https://opera.com)
 - **Mullvad Browser** 🇸🇪: Built with Tor developers, privacy-focused. [Website](https://mullvad.net/en/browser)
 
 ## Video Conferencing
